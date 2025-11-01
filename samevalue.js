@@ -1,4 +1,4 @@
-  const students = ['abul', 'babul', 'cabul', 'suhan', 'suhan', 'abul', 'babul', 'dabul'];
+  const students = ['abul', 'babul', 'cabul', 'suhan', 'suhan', 'abul', 'babul'];
   const numbers = [1, 5, 61, 5, 87, 7, 5, 81, 61];
 
   function noDuplicate(array) {
