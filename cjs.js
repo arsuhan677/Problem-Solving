@@ -8,7 +8,7 @@ function sub(a, b) {
 
 module.exports = {
   add,
-  sub
+  sub,
 };
 
 // index.js

@@ -3,7 +3,8 @@ function inchToFeet2(inch) {
   const feetNumber = parseInt(feetFraction);
 
   const inchRemaining = inch % 12;
-  const result = "suhan hight " + feetNumber + " feet " + inchRemaining + " inch.";
+  const result =
+    "suhan hight " + feetNumber + " feet " + inchRemaining + " inch.";
   return result;
 }
 

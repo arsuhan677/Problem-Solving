@@ -1,9 +1,9 @@
 function isYearLeap(year) {
-    if (year % 4 === 0) {
-        return true;    
-    } else {
-        return false;
-    }
+  if (year % 4 === 0) {
+    return true;
+  } else {
+    return false;
+  }
 }
 
 const isYear = isYearLeap(2043);

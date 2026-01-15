@@ -10,5 +10,5 @@ export function sub(a, b) {
 
 import { add, sub } from "./math.mjs";
 
-console.log(add(20, 10)); 
+console.log(add(20, 10));
 console.log(sub(20, 10));
