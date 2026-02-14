@@ -3,6 +3,6 @@ let b = 200;
 
 let temp = a;
 a = b;
-b = temp;
+b = temp
 
-console.log(a);
+console.log(b, a) // a = 200 // b = 100
