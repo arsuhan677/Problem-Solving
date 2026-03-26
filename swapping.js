@@ -1,8 +1,8 @@
-let a = 100;
-let b = 200;
+let a = 500;
+let b = 1000;
 
 let temp = a;
 a = b;
-b = temp
+b = temp;
 
-console.log(b, a) // a = 200 // b = 100
+console.log("This is number is a = " , a, "This is number is b =", b)
