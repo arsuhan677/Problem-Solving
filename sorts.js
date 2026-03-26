@@ -1,4 +1,4 @@
-const str = "my name is aminur rahman suhan";
+const str = "this is name is aminur rahman suhan";
 
 const result = str
   .split(" ")
@@ -6,3 +6,4 @@ const result = str
   .join(" ");
 
 console.log(result);
+
